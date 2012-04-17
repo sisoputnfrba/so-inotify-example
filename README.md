@@ -9,6 +9,7 @@ En este ejemplo se maneja el file descriptor devuelto por inotify con las funcio
 ## Links ##
 
 http://www.ibm.com/developerworks/linux/library/l-ubuntu-inotify/index.html?ca=drs-
+
 http://en.wikipedia.org/wiki/Inotify
 
 
